@@ -2,7 +2,7 @@
 A simple color-changing clock app built using Python and Tkinter. The clock displays the current time in pink and changes its color to red every 5 seconds.
 
 ## Usage
-- Run the script, main.py, to start the clock.
+- Run the script `main.py` to start the clock.
 - The clock will display the current time and change color to red every 5 seconds.
 
 ### Main Components
